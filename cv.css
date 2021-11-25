@@ -9,7 +9,6 @@ body {
 }
 .container{
     display: flex;
-    overflow: hidden;
     flex-direction: row;
 }
 h1 {
