@@ -1,8 +1,5 @@
 body {
-    background-image: url("https://i.ytimg.com/vi/5zMY1iRYNIY/maxresdefault.jpg");
-    border-radius: 20px;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: #e9c46a;
     display: flex;
     justify-content: center;
     align-items: center;
