@@ -13,7 +13,7 @@ window.addEventListener('load', () => {
     .then(response => response.json())
     .then(data => {
         console.log(data)
-        citation.innerText = data.quote
+        citation.innerText = `"${data.quote}"`
     })
 }) 
 
@@ -22,7 +22,7 @@ citation_new.addEventListener('click', () => {
     .then(response => response.json())
     .then(data => {
         console.log(data)
-        citation.innerText = data.quote
+        citation.innerText = `"${data.quote}"`
     })
 })
 
