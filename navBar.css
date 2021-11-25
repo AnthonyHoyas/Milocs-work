@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+ul {
+    display: flex;   
+}
+li {
+    padding-left: 40px;
+    padding-right: 40px;
+    list-style-type: none;
+}
+svg {
+    display: none;
+}
+@media screen and (max-width: 640px) {
+    svg {
+        display: block;
+    }
+    li {
+        display: none;
+    }
+}

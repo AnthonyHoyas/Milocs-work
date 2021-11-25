@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+}  
+body {
+    background-color: #f4a261;
+    font-family: 'Merriweather', serif;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border-radius: 2px;
+    display: flex;
+}
+li a {
+    display: block;
+    color: #1F2937;
+    padding: 15px 25px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.containerTop li a:hover::first-letter {
+    text-decoration: underline;
+    text-decoration-color: #2a9d8f;
+}
+#nomTop {
+    background-color: #2a9d8f;
+    
+}
+#insta {
+    float: right;
+}
+#insta:hover {
+    background-color: black;
+}
+#github {
+    float: right;
+}
+#github:hover {
+    background-color: #2a9d8f;
+}
+.container {
+    background-color: #e9c46a;
+    padding-right: 20%; 
+    padding-left: 20%;
+}
+.titreImage {
+    color: #264653;
+    display: flex;
+    box-sizing: border-box;
+
+}
+h1 {
+    font-size: 4em;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+#anthony { 
+    border-radius: 50%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+    align-content: space-around;
+    align-items: center;
+    width: 70%;
+    height: auto;
+}
+#intro {
+    padding-bottom: 8px;
+    font-size: 22px; 
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+#webDev {
+    text-align: right;
+    font-size: 18px;
+    padding-bottom: 25px;
+    color: #e76f51;
+
+}
+#index {
+    text-align: right;
+}
+.titreImage li a {
+    
+    border: 0.5px solide;
+    border-radius: 2px;
+    padding-right: 20px;
+    margin: 10px
+}
+.titreImage li #pp {
+    background-color: transparent;
+    border: 0.5px solid #2a9d8f;
+    border-radius: 2px;
+}
+.motiv{
+    background-color: beige;
+    padding-bottom: 75px;
+    line-height: 30px;
+}
+h2 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 32px; 
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: #1F2937;
+}
+/* .orange1 {
+    padding-top: 10px;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-bottom: 75px; 
+} */
+
+svg{
+    display: none;
+}
+/* debut media */
+@media screen and (max-width: 640px) {
+.titreImage {
+    display: block;    }
+
+.image {
+    display: none;
+}
+svg {
+    display: block;
+}
+.page {
+    display: none;
+}
+}
+/* fin media */

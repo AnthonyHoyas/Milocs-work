@@ -1,0 +1,293 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.hero {
+    background-image: url(https://image.freepik.com/free-vector/jungle-landscape-illustration_204971-3.jpg);
+    /* https://s2.best-wallpaper.net/wallpaper/1920x1200/1712/Green-forest-trees-path_1920x1200.jpg */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 20px;
+}
+.navbar li {
+    padding: 30px;
+}
+li {
+    list-style-type: none;
+}
+.navbar ul {
+    display: flex;
+    color: #FFFFFF;
+    justify-content: space-around;
+    align-items: center;   
+}
+#login {
+    display: flex;
+    background-color: #FFFFFF;
+    border-radius: 25px;
+    justify-content: space-evenly;
+    padding: 7px 15px;
+    margin: 0;
+}
+svg {
+    padding-right: 10px;
+}
+.searchbar{
+    display: flex;
+    background-color: #FFFFFF;
+    padding: 9px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 50px;
+    justify-content: space-between;
+    border-radius: 50px 50px 50px 50px;
+    justify-items: center;
+    font-size: 15px;
+}
+.adresse {
+    padding-top: 4px;
+    padding-left: 27px;
+}
+.arrivee {
+    padding-top: 4px;
+    padding-left: 20px;
+}
+.depart {
+    padding-top: 4px;
+}
+.voyageurs {
+    padding-top: 4px;
+}
+.loupe {
+   padding-left: px;
+}
+#bar1, #bar2, #bar3, #bar4, #bar5, #bar6 {
+    border-left: 0.5px solid rgb(168, 168, 168);
+    padding-left: 20px;
+}
+p {
+ color:  rgb(150, 150, 150);
+}
+.random {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    height: 70vh;
+    width: 100%;
+    flex-direction: column;
+    font-weight: bold;
+}
+.flexible {
+    margin-top: 20px;
+    font-size: 18px;
+    background-color: #FFFFFF;
+    padding-top: 25px;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-bottom: 25px;
+    border-radius: 35px;
+}
+span {
+    background: -webkit-linear-gradient(90deg,rgb(111, 1, 156), #C6017E);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+h2 {
+    font-size: 31px;
+    padding-top: 28px;
+    padding-bottom: 18px;
+    margin-left: 7%;
+}
+.citycard {
+    display: grid;
+    grid-template-columns: repeat (4, 1fr);
+    grid-gap: 0px;
+    grid-auto-rows: minmax(100px, auto);
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.anvers {
+    display: flex;
+    border-radius: 10%;
+    align-items: center;
+    margin-right: 10%;
+    grid-column: 1/4;
+    grid-row: 1/2; 
+}
+.anvers img {
+    border-radius: 8px;
+    margin-right: 15px;
+}
+.bruges {
+    display: flex;
+    align-items: center;
+    margin-right: 10%;
+    grid-column: 2/4;
+    grid-row: 1/2;
+}
+.bruges img {
+    border-radius: 8px;
+    margin-right: 15px;
+}
+.ixelles {
+    display: flex;
+    align-items: center;
+    margin-right: 10%;
+    grid-column: 3/4;
+    grid-row: 1/2;
+}
+.ixelles img {
+    border-radius: 8px;
+    margin-right: 15px;
+}
+.gand {
+    display: flex;
+    align-items: center;
+    margin-right: 10%;
+    grid-column: 4/4;
+    grid-row: 1/2;
+}
+.gand  img{
+    border-radius: 8px;
+    margin-right: 15px;
+}
+.saintgilles {
+    display: flex;
+    align-items: center;
+    margin-right: 10%;
+    grid-column: auto;
+    grid-row: auto;
+}
+.saintgilles img {
+    border-radius: 8px;
+    margin-right: 15px;
+}
+.ostende {
+    display: flex;
+    align-items: center;
+    margin-right: 10%;
+    grid-column: auto;
+    grid-row: auto;
+}
+.ostende img {
+    border-radius: 8px;
+    margin-right: 15px;
+
+}
+.schaerbeek {
+    display: flex;
+    align-items: center;
+    margin-right: 10%;
+    grid-column: auto;
+    grid-row: auto;
+}
+.schaerbeek img {
+    border-radius: 8px;
+    margin-right: 15px;
+}
+.liege {
+    display: flex;
+    align-items: center;
+    margin-right: 10%;
+    grid-column: auto;
+    grid-row: auto;
+}
+.liege img {
+    border-radius: 8px;
+    margin-right: 15px;
+}
+.housecard {
+    display: flex;
+    flex-wrap: wrap;
+    font-weight: bold;
+    margin-left: 7%;
+    margin-right: 7%;
+    padding-right: 5%;
+    justify-content: space-between;
+}
+.housecard img {
+    border-radius: 8px;
+}
+.blackcard {
+    background-image: url(https://a0.muscache.com/im/pictures/5b4dc94a-0b4c-4c27-b50f-9c5a5b93c775.jpg);
+    border-radius: 25px 25px 25px 25px;
+    background-size: 100%;
+    height: 50vh;
+    margin-left: 7%;
+    margin-right: 9%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: left;
+    display: flex;
+}
+.insideblackcard {
+    font-size: 25px;
+    color: #FFFFFF;
+    padding: 90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    max-width: 500px;;
+}
+.insideblackcard p{
+    color: #FFFFFF;
+    font-size: 20px;
+}
+.insideblackcard button {
+    background-color: #FFFFFF;
+    border-radius: 20px;  
+    font-family:  'Montserrat', sans-serif;
+    font-weight: bold; 
+    font-size: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    max-width: 30%;
+}
+.button {
+    position: relative;
+    display: inline-block;
+}
+.buttondrop {
+    display: none;
+    position: absolute;
+}
+.activitycard {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 25px;
+    font-size: 18px;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.activitycard img {
+    border-radius: 10px;
+}
+.lastdiv {
+    display: flex;
+    flex-direction: column;
+    background-color:rgb(230, 230, 230);
+}
+.index {
+    display: flex;
+    justify-content: space-around;
+    align-items: top;  
+}
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.footer ul{
+    display: flex;
+    flex-direction: row;
+}

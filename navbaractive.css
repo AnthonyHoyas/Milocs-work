@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-evenly; 
+    border-bottom: 1px solid black;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: blueviolet;
+}
+.hero {
+    padding: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: left;
+    flex-direction: column;
+    background-color: blanchedalmond;
+}
+.hero p {
+    display: none;
+}
+#home-content {
+    border: 1px solid black;
+    margin-bottom: 50px;
+    padding:10px;
+    background-color: blueviolet; 
+     
+}
+#contact-content {
+    border: 1px solid black;
+    margin-bottom: 50px;
+    padding:10px;
+    background-color: blueviolet;
+   
+
+}
+#about-content {
+    border: 1px solid black;
+    margin-bottom: 50px;
+    padding:10px;
+    background-color: blueviolet;
+    
+
+
+}
+.active {
+    color: aqua;
+    border-radius: 30px;
+}

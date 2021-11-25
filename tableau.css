@@ -1,0 +1,29 @@
+tr{
+text-align: center;
+}
+th{
+    border-bottom: 2px solid rgba(156, 156, 156, 0.637);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+table{
+    border-radius: 2px;
+    background-color: white;
+    border-spacing: 0;
+    padding: 20px;
+    margin: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-color: rgb(246, 246, 246);
+}
+td{
+    border-top: 0.5px solid lightgray;
+    padding: 2px;  
+}
+.test{
+    display: flex
+}
+strong{
+    color: red
+}

@@ -1,0 +1,33 @@
+.para:hover {
+    text-decoration: none;
+    color: green;
+    font-family: 'Abril Fatface', cursive;
+}
+/* premier paragraphe */
+.papa {
+    border: 2px solid black;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+/* deuxieme paragraphe */
+.paratrois {
+    font-family: 'ZCOOL KuaiLe', cursive;
+    border: 2px dashed red
+}
+/* troisime paragraphe */
+.paraquatre {
+    font-family: 'Akronim', cursive;
+    border-top: 5px solid blue;
+    border-right: 5px solid green;
+    border-bottom: 5px solid red;
+    border-left: 5px solid yellow;
+}
+/* quatrieme paragraphe */
+.robo {
+    font-family: 'Roboto', sans-serif;
+} 
+/* dernier paragraphe */
+.img {
+    background-color: rgba(185, 4, 155, 0.185);
+    border: 1px inset ;
+    border-radius: 5px
+}

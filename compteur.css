@@ -1,0 +1,44 @@
+*{
+    margin: 0 ;
+    padding: 0 ;
+}
+
+.containers {
+    display: flex;
+    flex-direction: column;
+}
+.counts {
+    display: flex;
+    background-color: rgba(167, 0, 153, 0.472);
+    justify-content: center;
+    font-size: 500%;
+
+}
+.buttons {
+    display: flex;
+    background-color: rgba(8, 8, 70, 0.233);
+    justify-content: space-around;
+    align-items: center;
+    height: 20vh;
+
+}
+#count {
+    color: blue;
+}
+
+#more {
+    height: 50px;
+    width: 50px;
+}
+
+#less {
+    height: 50px;
+    width: 50px;
+}
+
+#reset {
+    height: 50px;
+    width: 50px;
+}
+
+

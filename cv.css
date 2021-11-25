@@ -1,0 +1,171 @@
+body {
+    background-color: #f0efef;
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    padding: 0;
+    padding-left: 400px;
+    padding-right: 400px;
+    
+}
+.container{
+    display: flex;
+    overflow: hidden;
+    flex-direction: row;
+}
+h1 {
+    font-size: 3em;
+    padding-top: 1px;
+    padding-bottom: 30px;
+    margin: 0;
+    color: #1F2937;
+    text-align: left;
+    padding-left: 25px;
+}
+h2 {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    font-size: 32px; 
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    color: #1F2937;
+    margin: 0;
+}
+#index {
+    text-align: right;
+}
+/* debut colonne gauche */
+.colGauche{
+    background-color: #c2d4dd;
+    height: 215vh;
+    width: 30%;
+    list-style-type: none;
+    
+}
+.colDroite{
+    background-color: #f7f7f7;
+    height: 206vh;
+    width: 70%;
+    padding-top:80px;
+}
+.topG{
+    background-color: #b0aac0;
+    border-radius: 2px 2px 50px 2px;
+}
+#cvPic{
+    border-radius: 50%;
+    padding-left: 10%;
+}
+.atouts li{
+    list-style-type: none;
+    color: #1F2937;
+    padding-bottom: 10px;
+    font-size:20px;
+}
+.contact li{
+    list-style-type: none;
+    color: #1F2937;
+    padding-bottom: 10px;
+    font-size:20px;
+}
+.lang li{
+    list-style-type: none;
+    color: #1F2937;
+    padding-bottom: 2px;
+    font-size:20px;
+    padding-top: 6px;
+}
+progress {
+    border: none;
+    width: 200px;
+    height: 10px;
+}    
+progress::-webkit-progress-value {
+    background: #1F2937;
+    border-radius: 2px;
+}
+progress::-webkit-progress-bar {
+    background: #2a9d8f;
+    border-radius: 2px;
+    
+}
+/* fin colonne gauche */
+/* débute colonne droit */
+.colDroite li {
+    list-style-type: none;
+    padding-bottom:0px;
+    padding-top:20px;
+    font-size: 1.5em;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 10px;
+    color: #1F2937;
+}
+.colDroite h2 {
+    padding-bottom: 10px;
+    padding-left: 100px;
+}
+p{
+    padding-left: 50px;
+    color: rgb(65, 71, 77);
+}
+/* Urs */
+.urs{
+    display: flex;
+}
+.urs #ursPic{
+    padding-top:50px;
+}
+.urs #ursText{
+    padding-top:45px;
+}
+/* Umons */
+.uMons{
+    display: flex;
+}
+.uMons #uMonsPic{
+    padding-top: 27px;
+}
+.uMons #MonsText{
+    padding-top:50px;
+}
+/* ulb */
+.ulb{
+    display: flex;
+}
+.ulb #ulbPic{
+    padding-top: 30px;
+}
+.ulb #ulbText{
+    padding-top:33px;
+}
+/* milocs */
+.milocs{
+    display: flex;
+}
+.milocs #milocsPic{
+    padding-top: 33px;
+}
+.milocs #milocsText{
+    padding-top:30px;
+}
+/* rob */
+.rob{
+    display: flex;
+}
+.rob #robPic{
+    padding-top: 33px;
+}
+.rob #robText{
+    padding-top:30px;
+}
+/* stage */
+.stage{
+    display: flex;
+}
+.stage #stagePic{
+    padding-top: 33px;
+}
+.stage #stageText{
+    padding-top:40px;
+}
+/* Fin colonne de droite */

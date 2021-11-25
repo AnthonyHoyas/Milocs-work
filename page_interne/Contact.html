@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="../style.css">
+    
+    <title>Formulaires</title>
+</head>
+<body>
+    <h1>Contact</h1>
+        <form action="" method="post">
+            <div>
+                <label for="prenom">Nom</label><br>
+            
+                <input type="text" name="prenom" id="prenom" >
+            </div><br>
+            <div>
+                <label for="password">Mot de passe : </label><br>
+                <input type="password" name="password" id="password">
+            </div><br>
+            <div>
+                <label for="name">Email</label><br>
+                <input type="text" name="name" id="name"><br>
+            </div><br>
+            <div>
+                <label for="montext">Message</label><br>
+                <textarea name="montext" id="montext" cols="20" rows="8" ></textarea>
+            </div><br>
+            <div>
+                <div>
+                    <input type="checkbox" name="demandeur" id="demandeur" checked>
+                    <label for="demandeur">Demandeur d'emploi</label>
+                </div>
+                <div>
+                    <input type="checkbox" name="activa" id="activa">
+                    <label for="activa">Activa</label>
+                </div>
+                <div>
+                    <input type="checkbox" name="smart" id="smart">
+                    <label for="smart">Membre de la Smart</label>
+                </div>
+            </div>
+            <h4>Je suis</h4>
+            <div>
+                <div>
+                    <input type="radio" name="sexe" value="femme" id="femme">
+                    <label for="femme">une femme</label>
+                 </div>
+                 <div>
+                    <input type="radio" name="sexe" value="homme" id="homme">
+                    <label for="homme">un homme</label>
+                </div>
+                <div>
+                    <input type="radio" name="sexe" value="jsp" id="jsp">
+                    <label for="jsp">je ne sais pas</label>
+                </div>
+            </div><br>
+            <div>
+                <label for="lang">Quelle langue ?</label><br>
+                <select name="lang" id="lang">
+                    <option value="" selected disabled hidden>Langue</option>
+                    <option value="Francais">Francais</option>
+                    <option value="Neerlandais">Neerlandais</option>
+                    <option value="Anglais">Anglais</option>
+                </select>
+            </div><br>
+            <input type="submit" value="Envoyer">  
+        </form>
+<p> Retour à <a href="../navigation.html" title="acceuil du site">l'accueil</a></p>
+</html>
