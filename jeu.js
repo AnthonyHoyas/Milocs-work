@@ -57,6 +57,7 @@ function main() {
     } while (rejouer);
     window.alert("Merci et au revoir ");
 }
-window.addEventListener('load', function() {
+let button = document.getElementById("button")
+button.addEventListener('click', function() {
     main()
 })

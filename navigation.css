@@ -7,10 +7,16 @@ body {
     width: 100%;
     height: 100%;
     box-sizing: border-box;
-}
-.top{
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
+}
+#navbar{
+    display: flex;
+    width: 100%;
+    background-color: #2a9d8f; 
+    align-items: center;
+    justify-content: space-around;
+    position: fixed;
 }
 ul {
     list-style: none;
@@ -24,12 +30,9 @@ li a {
     color: #1F2937;
     padding: 15px 25px;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 2vw;
 }
-.containerTop li a:hover::first-letter {
-    text-decoration: underline;
-    text-decoration-color: #2a9d8f;
-}
+
 #nomTop {
     background-color: #2a9d8f;
     
@@ -39,54 +42,60 @@ li a {
 }
 #insta:hover {
     background-color: black;
+    border-radius: 20px;
 }
 #github {
     float: right;
 }
 #github:hover {
     background-color: #2a9d8f;
+    border-radius: 20px;
+}
+#twitch:hover {
+    background-color: #dd9be565;
+    border-radius: 20px;
 }
 .container {
     background-color: #e9c46a;
-    padding-right: 20%; 
-    padding-left: 20%;
+    justify-items: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
 }
 .titreImage {
     color: #264653;
     display: flex;
-    box-sizing: border-box;
-
-}
+    justify-content: center;
+    align-items: center;
+    padding-top: 1%;
+    }
 h1 {
-    font-size: 4em;
+    font-size: 5vw;
     padding-top: 50px;
     padding-bottom: 30px;
     padding-left: 10px;
     margin: 0;
+    width: 100%;
     box-sizing: border-box;
 
 }
 #anthony { 
     border-radius: 50%;
-    box-sizing: border-box;
-    display: flex;
-    justify-content: space-around;
-    align-content: space-around;
-    align-items: center;
-    width: 70%;
-    height: auto;
 }
 #intro {
     padding-bottom: 8px;
+    padding-left: 6%;
     font-size: 22px; 
     font-family: 'Roboto', sans-serif;
-    text-align: center;
+    text-align: left;
 }
 #webDev {
-    text-align: right;
+    text-align: left;
     font-size: 18px;
     padding-bottom: 25px;
     color: #e76f51;
+    padding-left: 6%;
+
 
 }
 #index {
@@ -124,22 +133,60 @@ h2 {
     padding-bottom: 75px; 
 } */
 
-svg{
+#svg-menu{
     display: none;
 }
 /* debut media */
 @media screen and (max-width: 640px) {
 .titreImage {
-    display: block;    }
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
 
-.image {
+#anthony {
     display: none;
 }
-svg {
+#svg-menu {
     display: block;
+    background-color: transparent; 
+}
+#r1 {
+    fill: black;
+}
+#r2 {
+    fill: black;
+}
+#r3 {
+    fill:black;
 }
 .page {
     display: none;
 }
+h1 {
+    font-size: 8vw;
 }
+}
+
 /* fin media */
+/* debut popup*/
+#popnavbar {
+    display: none;
+    justify-content: flex-end;
+    position: fixed;
+    top: 8%;
+    right: 7%;
+}
+#popnavbar ul {
+    display: flex;
+    flex-direction: column;
+    background-color: #2a9d8f;
+}
+#popnavbar ul :hover {
+    color: red;
+}
+@media only screen and (max-width: 100px) { 
+    #popnavbar { 
+      display: none; 
+    } 
+  }
