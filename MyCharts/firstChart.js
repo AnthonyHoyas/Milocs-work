@@ -1,26 +1,34 @@
 let myChart = document.getElementById('myChart').getContext('2d');
-let cities = fetch("data.json")
-.then(response => response.json())
-.then(data => {
-    for (let list of data) {
-    console.log(list.name);
-}})
+let labels = [];
+let labelsPop = [];
+let test = ['Bruxelles', 'Mons', 'Liège', 'Namur', 'Arlon', 'Anvers'];
+let citiesList = fetch("be.json")
+    .then(response => response.json())
+    .then(cities => {
+        for (let city of cities) {
+            labels.push(city.city);
+        }
+    })
+let poplist = fetch("be.json")
+    .then(response => response.json())
+    .then(populations => {
+        for (let population of populations) {
+            labelsPop.push(population.population);
+        }
+    })
+console.log(labelsPop)
+console.log(labels);
+console.log(test)
+
 //Global Options
 
 let belgPopChart = new Chart(myChart, {
     type: 'bar', //bar, horizontalBar, pie, line, doughnut, radar, polarArea
     data: {
-        labels: [cities.forEach(element => console.log(element))], //'Bruxelles', 'Mons', 'Liège', 'Namur', 'Arlon', 'Anvers'],  
+        labels: [],
         datasets: [{
             label: 'population',
-            data: [
-                1019022,
-                231493,
-                459805,
-                200132,
-                182597,
-                116709
-            ],
+            data: labelsPop,
             backgroundColor: [
                 'green',
                 'blue',
