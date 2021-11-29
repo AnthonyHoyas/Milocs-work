@@ -1,0 +1,1602 @@
+[
+  {
+    "2021": 1019022,
+    "name": "Brussels"
+  },
+  {
+    "2021": 459805,
+    "name": "Antwerpen"
+  },
+  {
+    "2021": 231493,
+    "name": "Gent"
+  },
+  {
+    "2021": 200132,
+    "name": "Charleroi"
+  },
+  {
+    "2021": 182597,
+    "name": "Liege"
+  },
+  {
+    "2021": 116709,
+    "name": "Brugge"
+  },
+  {
+    "2021": 106284,
+    "name": "Namur"
+  },
+  {
+    "2021": 92892,
+    "name": "Leuven"
+  },
+  {
+    "2021": 91277,
+    "name": "Mons"
+  },
+  {
+    "2021": 78747,
+    "name": "Deurne"
+  },
+  {
+    "2021": 77534,
+    "name": "Aalst"
+  },
+  {
+    "2021": 77530,
+    "name": "Mechelen"
+  },
+  {
+    "2021": 76668,
+    "name": "La Louviere"
+  },
+  {
+    "2021": 73879,
+    "name": "Kortrijk"
+  },
+  {
+    "2021": 69222,
+    "name": "Hasselt"
+  },
+  {
+    "2021": 69011,
+    "name": "Ostend"
+  },
+  {
+    "2021": 69010,
+    "name": "Sint-Niklaas"
+  },
+  {
+    "2021": 67721,
+    "name": "Tournai"
+  },
+  {
+    "2021": 63666,
+    "name": "Genk"
+  },
+  {
+    "2021": 60737,
+    "name": "Seraing"
+  },
+  {
+    "2021": 56016,
+    "name": "Roeselare"
+  },
+  {
+    "2021": 52824,
+    "name": "Verviers"
+  },
+  {
+    "2021": 52069,
+    "name": "Mouscron"
+  },
+  {
+    "2021": 45179,
+    "name": "Beveren"
+  },
+  {
+    "2021": 43055,
+    "name": "Dendermonde"
+  },
+  {
+    "2021": 40930,
+    "name": "Beringen"
+  },
+  {
+    "2021": 39654,
+    "name": "Turnhout"
+  },
+  {
+    "2021": 39482,
+    "name": "Dilbeek"
+  },
+  {
+    "2021": 37873,
+    "name": "Heist-op-den-Berg"
+  },
+  {
+    "2021": 37859,
+    "name": "Sint-Truiden"
+  },
+  {
+    "2021": 37567,
+    "name": "Lokeren"
+  },
+  {
+    "2021": 37512,
+    "name": "Braine-l'Alleud"
+  },
+  {
+    "2021": 37040,
+    "name": "Brasschaat"
+  },
+  {
+    "2021": 36955,
+    "name": "Vilvoorde"
+  },
+  {
+    "2021": 36503,
+    "name": "Herstal"
+  },
+  {
+    "2021": 36251,
+    "name": "Maasmechelen"
+  },
+  {
+    "2021": 35896,
+    "name": "Waregem"
+  },
+  {
+    "2021": 35238,
+    "name": "Chatelet"
+  },
+  {
+    "2021": 35089,
+    "name": "Ieper"
+  },
+  {
+    "2021": 34795,
+    "name": "Ninove"
+  },
+  {
+    "2021": 34697,
+    "name": "Geel"
+  },
+  {
+    "2021": 34479,
+    "name": "Halle"
+  },
+  {
+    "2021": 34443,
+    "name": "Hoboken"
+  },
+  {
+    "2021": 33781,
+    "name": "Knokke-Heist"
+  },
+  {
+    "2021": 33622,
+    "name": "Schoten"
+  },
+  {
+    "2021": 33561,
+    "name": "Grimbergen"
+  },
+  {
+    "2021": 33272,
+    "name": "Lier"
+  },
+  {
+    "2021": 32659,
+    "name": "Mol"
+  },
+  {
+    "2021": 32112,
+    "name": "Wavre"
+  },
+  {
+    "2021": 32030,
+    "name": "Binche"
+  },
+  {
+    "2021": 31993,
+    "name": "Lommel"
+  },
+  {
+    "2021": 31916,
+    "name": "Menen"
+  },
+  {
+    "2021": 31743,
+    "name": "Tienen"
+  },
+  {
+    "2021": 31615,
+    "name": "Evergem"
+  },
+  {
+    "2021": 31017,
+    "name": "Heusden"
+  },
+  {
+    "2021": 30954,
+    "name": "Wevelgem"
+  },
+  {
+    "2021": 30807,
+    "name": "Geraardsbergen"
+  },
+  {
+    "2021": 30446,
+    "name": "Sint-Pieters-Leeuw"
+  },
+  {
+    "2021": 30050,
+    "name": "Helchteren"
+  },
+  {
+    "2021": 30050,
+    "name": "Houthalen"
+  },
+  {
+    "2021": 29816,
+    "name": "Tongeren"
+  },
+  {
+    "2021": 29815,
+    "name": "Deinze"
+  },
+  {
+    "2021": 29778,
+    "name": "Waterloo"
+  },
+  {
+    "2021": 29622,
+    "name": "Bilzen"
+  },
+  {
+    "2021": 29521,
+    "name": "Louvain-la-Neuve"
+  },
+  {
+    "2021": 29473,
+    "name": "Courcelles"
+  },
+  {
+    "2021": 28985,
+    "name": "Asse"
+  },
+  {
+    "2021": 28188,
+    "name": "Zaventem"
+  },
+  {
+    "2021": 27935,
+    "name": "Oudenaarde"
+  },
+  {
+    "2021": 27656,
+    "name": "Aarschot"
+  },
+  {
+    "2021": 27297,
+    "name": "Ans"
+  },
+  {
+    "2021": 26681,
+    "name": "Ath"
+  },
+  {
+    "2021": 26410,
+    "name": "Kapellen"
+  },
+  {
+    "2021": 26382,
+    "name": "Izegem"
+  },
+  {
+    "2021": 26179,
+    "name": "Arlon"
+  },
+  {
+    "2021": 26054,
+    "name": "Temse"
+  },
+  {
+    "2021": 25978,
+    "name": "Harelbeke"
+  },
+  {
+    "2021": 25912,
+    "name": "Herentals"
+  },
+  {
+    "2021": 25908,
+    "name": "Brecht"
+  },
+  {
+    "2021": 25144,
+    "name": "Flemalle-Haute"
+  },
+  {
+    "2021": 24869,
+    "name": "Soignies"
+  },
+  {
+    "2021": 24771,
+    "name": "Lanaken"
+  },
+  {
+    "2021": 24525,
+    "name": "Mortsel"
+  },
+  {
+    "2021": 24434,
+    "name": "Zottegem"
+  },
+  {
+    "2021": 24204,
+    "name": "Ronse"
+  },
+  {
+    "2021": 24149,
+    "name": "Nivelles"
+  },
+  {
+    "2021": 24055,
+    "name": "Andenne"
+  },
+  {
+    "2021": 23684,
+    "name": "Maaseik"
+  },
+  {
+    "2021": 23594,
+    "name": "Oupeye"
+  },
+  {
+    "2021": 23486,
+    "name": "Overijse"
+  },
+  {
+    "2021": 23358,
+    "name": "Zwevegem"
+  },
+  {
+    "2021": 23228,
+    "name": "Beersel"
+  },
+  {
+    "2021": 22930,
+    "name": "Wetteren"
+  },
+  {
+    "2021": 22891,
+    "name": "Hamme"
+  },
+  {
+    "2021": 22808,
+    "name": "Willebroek"
+  },
+  {
+    "2021": 22586,
+    "name": "Saint-Nicolas"
+  },
+  {
+    "2021": 22579,
+    "name": "Westerlo"
+  },
+  {
+    "2021": 22516,
+    "name": "Diest"
+  },
+  {
+    "2021": 22500,
+    "name": "Saint-Ghislain"
+  },
+  {
+    "2021": 22196,
+    "name": "Manage"
+  },
+  {
+    "2021": 22092,
+    "name": "Maldegem"
+  },
+  {
+    "2021": 22080,
+    "name": "Fleurus"
+  },
+  {
+    "2021": 22047,
+    "name": "Merelbeke"
+  },
+  {
+    "2021": 21968,
+    "name": "Zedelgem"
+  },
+  {
+    "2021": 21859,
+    "name": "Tubize"
+  },
+  {
+    "2021": 21839,
+    "name": "Edegem"
+  },
+  {
+    "2021": 21676,
+    "name": "Gembloux"
+  },
+  {
+    "2021": 21616,
+    "name": "Rixensart"
+  },
+  {
+    "2021": 21489,
+    "name": "Oostkamp"
+  },
+  {
+    "2021": 21096,
+    "name": "Zemst"
+  },
+  {
+    "2021": 21027,
+    "name": "Koksijde"
+  },
+  {
+    "2021": 20960,
+    "name": "Chaudfontaine"
+  },
+  {
+    "2021": 20792,
+    "name": "Nijlen"
+  },
+  {
+    "2021": 20642,
+    "name": "Zoersel"
+  },
+  {
+    "2021": 20623,
+    "name": "Tervuren"
+  },
+  {
+    "2021": 20598,
+    "name": "Frameries"
+  },
+  {
+    "2021": 20373,
+    "name": "Schilde"
+  },
+  {
+    "2021": 20290,
+    "name": "Kontich"
+  },
+  {
+    "2021": 20236,
+    "name": "Zele"
+  },
+  {
+    "2021": 20133,
+    "name": "Braine-le-Comte"
+  },
+  {
+    "2021": 20058,
+    "name": "Boussu"
+  },
+  {
+    "2021": 19997,
+    "name": "Bornem"
+  },
+  {
+    "2021": 19978,
+    "name": "Balen"
+  },
+  {
+    "2021": 19973,
+    "name": "Huy"
+  },
+  {
+    "2021": 19964,
+    "name": "Colfontaine"
+  },
+  {
+    "2021": 19922,
+    "name": "Zonhoven"
+  },
+  {
+    "2021": 19696,
+    "name": "Lochristi"
+  },
+  {
+    "2021": 19537,
+    "name": "Poperinge"
+  },
+  {
+    "2021": 19487,
+    "name": "Sint-Katelijne-Waver"
+  },
+  {
+    "2021": 19299,
+    "name": "Tielt"
+  },
+  {
+    "2021": 19218,
+    "name": "Herent"
+  },
+  {
+    "2021": 19116,
+    "name": "Eeklo"
+  },
+  {
+    "2021": 18933,
+    "name": "Torhout"
+  },
+  {
+    "2021": 18802,
+    "name": "Aalter"
+  },
+  {
+    "2021": 18524,
+    "name": "Hoogstraten"
+  },
+  {
+    "2021": 18497,
+    "name": "Meise"
+  },
+  {
+    "2021": 18491,
+    "name": "Quaregnon"
+  },
+  {
+    "2021": 18249,
+    "name": "Zwijndrecht"
+  },
+  {
+    "2021": 18233,
+    "name": "Morlanwelz-Mariemont"
+  },
+  {
+    "2021": 18230,
+    "name": "Blankenberge"
+  },
+  {
+    "2021": 18117,
+    "name": "Wuustwezel"
+  },
+  {
+    "2021": 18029,
+    "name": "Eupen"
+  },
+  {
+    "2021": 17990,
+    "name": "Sint-Genesius-Rode"
+  },
+  {
+    "2021": 17789,
+    "name": "Middelkerke"
+  },
+  {
+    "2021": 17774,
+    "name": "Kortenberg"
+  },
+  {
+    "2021": 17765,
+    "name": "Kasterlee"
+  },
+  {
+    "2021": 17699,
+    "name": "Diepenbeek"
+  },
+  {
+    "2021": 17687,
+    "name": "Lessines"
+  },
+  {
+    "2021": 17658,
+    "name": "Sint-Gillis-Waas"
+  },
+  {
+    "2021": 17501,
+    "name": "Walcourt"
+  },
+  {
+    "2021": 17485,
+    "name": "Kalmthout"
+  },
+  {
+    "2021": 17405,
+    "name": "Ranst"
+  },
+  {
+    "2021": 17372,
+    "name": "Lebbeke"
+  },
+  {
+    "2021": 17340,
+    "name": "Wervik"
+  },
+  {
+    "2021": 17294,
+    "name": "Stabroek"
+  },
+  {
+    "2021": 17274,
+    "name": "Londerzeel"
+  },
+  {
+    "2021": 17129,
+    "name": "Haaltert"
+  },
+  {
+    "2021": 17054,
+    "name": "Vise"
+  },
+  {
+    "2021": 16989,
+    "name": "Stekene"
+  },
+  {
+    "2021": 16969,
+    "name": "Denderleeuw"
+  },
+  {
+    "2021": 16861,
+    "name": "Dour"
+  },
+  {
+    "2021": 16856,
+    "name": "Marche-en-Famenne"
+  },
+  {
+    "2021": 16853,
+    "name": "Destelbergen"
+  },
+  {
+    "2021": 16813,
+    "name": "Lede"
+  },
+  {
+    "2021": 16754,
+    "name": "Essen"
+  },
+  {
+    "2021": 16647,
+    "name": "Peruwelz"
+  },
+  {
+    "2021": 16574,
+    "name": "Tessenderlo"
+  },
+  {
+    "2021": 16544,
+    "name": "Herve"
+  },
+  {
+    "2021": 16523,
+    "name": "Herzele"
+  },
+  {
+    "2021": 16208,
+    "name": "Beerse"
+  },
+  {
+    "2021": 16122,
+    "name": "Neerpelt"
+  },
+  {
+    "2021": 16011,
+    "name": "Duffel"
+  },
+  {
+    "2021": 16000,
+    "name": "Sint-Kruis"
+  },
+  {
+    "2021": 15994,
+    "name": "Fleron"
+  },
+  {
+    "2021": 15944,
+    "name": "Puurs"
+  },
+  {
+    "2021": 15909,
+    "name": "Pont-a-Celles"
+  },
+  {
+    "2021": 15810,
+    "name": "Boom"
+  },
+  {
+    "2021": 15809,
+    "name": "Riemst"
+  },
+  {
+    "2021": 15551,
+    "name": "Peer"
+  },
+  {
+    "2021": 15515,
+    "name": "Diksmuide"
+  },
+  {
+    "2021": 15466,
+    "name": "Lille"
+  },
+  {
+    "2021": 15276,
+    "name": "Putte"
+  },
+  {
+    "2021": 15237,
+    "name": "Soumagne"
+  },
+  {
+    "2021": 15007,
+    "name": "Rotselaar"
+  },
+  {
+    "2021": 14932,
+    "name": "Aubange"
+  },
+  {
+    "2021": 14862,
+    "name": "Bredene"
+  },
+  {
+    "2021": 14830,
+    "name": "Ciney"
+  },
+  {
+    "2021": 14815,
+    "name": "Kruibeke"
+  },
+  {
+    "2021": 14682,
+    "name": "Thuin"
+  },
+  {
+    "2021": 14670,
+    "name": "Zulte"
+  },
+  {
+    "2021": 14660,
+    "name": "Merchtem"
+  },
+  {
+    "2021": 14569,
+    "name": "Ternat"
+  },
+  {
+    "2021": 14521,
+    "name": "Rumst"
+  },
+  {
+    "2021": 14512,
+    "name": "Beernem"
+  },
+  {
+    "2021": 14458,
+    "name": "Landen"
+  },
+  {
+    "2021": 14406,
+    "name": "Wemmel"
+  },
+  {
+    "2021": 14395,
+    "name": "Bastogne"
+  },
+  {
+    "2021": 14363,
+    "name": "Bree"
+  },
+  {
+    "2021": 14353,
+    "name": "Chapelle-lez-Herlaimont"
+  },
+  {
+    "2021": 14352,
+    "name": "Eghezee"
+  },
+  {
+    "2021": 14266,
+    "name": "Genappe"
+  },
+  {
+    "2021": 14260,
+    "name": "Bonheiden"
+  },
+  {
+    "2021": 14193,
+    "name": "Aartselaar"
+  },
+  {
+    "2021": 14149,
+    "name": "Leopoldsburg"
+  },
+  {
+    "2021": 14129,
+    "name": "Hannut"
+  },
+  {
+    "2021": 13920,
+    "name": "Anzegem"
+  },
+  {
+    "2021": 13861,
+    "name": "Basse Lasne"
+  },
+  {
+    "2021": 13853,
+    "name": "Berlare"
+  },
+  {
+    "2021": 13737,
+    "name": "Waremme"
+  },
+  {
+    "2021": 13721,
+    "name": "Tremelo"
+  },
+  {
+    "2021": 13689,
+    "name": "Lummen"
+  },
+  {
+    "2021": 13642,
+    "name": "Dison"
+  },
+  {
+    "2021": 13582,
+    "name": "Ichtegem"
+  },
+  {
+    "2021": 13574,
+    "name": "Lubbeek"
+  },
+  {
+    "2021": 13560,
+    "name": "Ravels"
+  },
+  {
+    "2021": 13541,
+    "name": "Haacht"
+  },
+  {
+    "2021": 13518,
+    "name": "Couvin"
+  },
+  {
+    "2021": 13510,
+    "name": "Buggenhout"
+  },
+  {
+    "2021": 13497,
+    "name": "Esneux"
+  },
+  {
+    "2021": 13495,
+    "name": "Assenede"
+  },
+  {
+    "2021": 13493,
+    "name": "Herselt"
+  },
+  {
+    "2021": 13488,
+    "name": "Jabbeke"
+  },
+  {
+    "2021": 13405,
+    "name": "Beloeil"
+  },
+  {
+    "2021": 13344,
+    "name": "Overpelt"
+  },
+  {
+    "2021": 13307,
+    "name": "Amay"
+  },
+  {
+    "2021": 13245,
+    "name": "Wezembeek-Oppem"
+  },
+  {
+    "2021": 13151,
+    "name": "Oosterzele"
+  },
+  {
+    "2021": 12945,
+    "name": "Sprimont"
+  },
+  {
+    "2021": 12918,
+    "name": "Wanze"
+  },
+  {
+    "2021": 12887,
+    "name": "Wingene"
+  },
+  {
+    "2021": 12875,
+    "name": "Dinant"
+  },
+  {
+    "2021": 12815,
+    "name": "Kraainem"
+  },
+  {
+    "2021": 12745,
+    "name": "Blegny"
+  },
+  {
+    "2021": 12638,
+    "name": "Kuurne"
+  },
+  {
+    "2021": 12367,
+    "name": "Grez-Doiceau"
+  },
+  {
+    "2021": 12363,
+    "name": "Keerbergen"
+  },
+  {
+    "2021": 12354,
+    "name": "Oud-Turnhout"
+  },
+  {
+    "2021": 12346,
+    "name": "Bocholt"
+  },
+  {
+    "2021": 12306,
+    "name": "Zandhoven"
+  },
+  {
+    "2021": 12252,
+    "name": "Machelen"
+  },
+  {
+    "2021": 12247,
+    "name": "Arendonk"
+  },
+  {
+    "2021": 12145,
+    "name": "Boechout"
+  },
+  {
+    "2021": 12045,
+    "name": "Opwijk"
+  },
+  {
+    "2021": 12014,
+    "name": "Mettet"
+  },
+  {
+    "2021": 11983,
+    "name": "Veurne"
+  },
+  {
+    "2021": 11980,
+    "name": "Liedekerke"
+  },
+  {
+    "2021": 11978,
+    "name": "Rochefort"
+  },
+  {
+    "2021": 11977,
+    "name": "Gerpinnes"
+  },
+  {
+    "2021": 11946,
+    "name": "Kinrooi"
+  },
+  {
+    "2021": 11937,
+    "name": "Kortemark"
+  },
+  {
+    "2021": 11930,
+    "name": "Jodoigne"
+  },
+  {
+    "2021": 11917,
+    "name": "Wommelgem"
+  },
+  {
+    "2021": 11901,
+    "name": "Zelzate"
+  },
+  {
+    "2021": 11888,
+    "name": "Gavere"
+  },
+  {
+    "2021": 11766,
+    "name": "De Haan"
+  },
+  {
+    "2021": 11608,
+    "name": "Beyne-Heusay"
+  },
+  {
+    "2021": 11600,
+    "name": "Laarne"
+  },
+  {
+    "2021": 11597,
+    "name": "Anderlues"
+  },
+  {
+    "2021": 11588,
+    "name": "Bernissart"
+  },
+  {
+    "2021": 11587,
+    "name": "Theux"
+  },
+  {
+    "2021": 11581,
+    "name": "Zonnebeke"
+  },
+  {
+    "2021": 11570,
+    "name": "Boortmeerbeek"
+  },
+  {
+    "2021": 11566,
+    "name": "Herk-de-Stad"
+  },
+  {
+    "2021": 11514,
+    "name": "Malmedy"
+  },
+  {
+    "2021": 11488,
+    "name": "Farciennes"
+  },
+  {
+    "2021": 11401,
+    "name": "Profondeville"
+  },
+  {
+    "2021": 11367,
+    "name": "Enghien"
+  },
+  {
+    "2021": 11292,
+    "name": "Deerlijk"
+  },
+  {
+    "2021": 11259,
+    "name": "Virton"
+  },
+  {
+    "2021": 11153,
+    "name": "Nevele"
+  },
+  {
+    "2021": 11084,
+    "name": "Gistel"
+  },
+  {
+    "2021": 11070,
+    "name": "Olen"
+  },
+  {
+    "2021": 11025,
+    "name": "Seneffe"
+  },
+  {
+    "2021": 11014,
+    "name": "Wichelen"
+  },
+  {
+    "2021": 10948,
+    "name": "Meulebeke"
+  },
+  {
+    "2021": 10943,
+    "name": "Chaumont-Gistoux"
+  },
+  {
+    "2021": 10936,
+    "name": "Frasnes-lez-Buissenal"
+  },
+  {
+    "2021": 10933,
+    "name": "Alken"
+  },
+  {
+    "2021": 10924,
+    "name": "Damme"
+  },
+  {
+    "2021": 10906,
+    "name": "Aiseau"
+  },
+  {
+    "2021": 10890,
+    "name": "Nazareth"
+  },
+  {
+    "2021": 10845,
+    "name": "Nieuwpoort"
+  },
+  {
+    "2021": 10786,
+    "name": "Staden"
+  },
+  {
+    "2021": 10784,
+    "name": "Kampenhout"
+  },
+  {
+    "2021": 10756,
+    "name": "Spa"
+  },
+  {
+    "2021": 10724,
+    "name": "Grobbendonk"
+  },
+  {
+    "2021": 10723,
+    "name": "Florennes"
+  },
+  {
+    "2021": 10720,
+    "name": "Moorslede"
+  },
+  {
+    "2021": 10687,
+    "name": "Melle"
+  },
+  {
+    "2021": 10636,
+    "name": "Aywaille"
+  },
+  {
+    "2021": 10606,
+    "name": "Rijkevorsel"
+  },
+  {
+    "2021": 10603,
+    "name": "Ingelmunster"
+  },
+  {
+    "2021": 10566,
+    "name": "Steenokkerzeel"
+  },
+  {
+    "2021": 10533,
+    "name": "Oud-Heverlee"
+  },
+  {
+    "2021": 10460,
+    "name": "Waasmunster"
+  },
+  {
+    "2021": 10370,
+    "name": "Berlaar"
+  },
+  {
+    "2021": 10334,
+    "name": "Borsbeek"
+  },
+  {
+    "2021": 10317,
+    "name": "Vosselaar"
+  },
+  {
+    "2021": 10272,
+    "name": "Hoeilaart"
+  },
+  {
+    "2021": 10251,
+    "name": "Durbuy"
+  },
+  {
+    "2021": 10232,
+    "name": "La Calamine"
+  },
+  {
+    "2021": 10069,
+    "name": "Retie"
+  },
+  {
+    "2021": 10049,
+    "name": "Rebecq-Rognon"
+  },
+  {
+    "2021": 10020,
+    "name": "De Pinte"
+  },
+  {
+    "2021": 9955,
+    "name": "Borgloon"
+  },
+  {
+    "2021": 9925,
+    "name": "Raeren"
+  },
+  {
+    "2021": 9900,
+    "name": "Hooglede"
+  },
+  {
+    "2021": 9802,
+    "name": "Ecaussinnes-d'Enghien"
+  },
+  {
+    "2021": 9799,
+    "name": "De Panne"
+  },
+  {
+    "2021": 9720,
+    "name": "Chimay"
+  },
+  {
+    "2021": 9627,
+    "name": "Braine-le-Chateau"
+  },
+  {
+    "2021": 9596,
+    "name": "Plombieres"
+  },
+  {
+    "2021": 9592,
+    "name": "Villers-la-Ville"
+  },
+  {
+    "2021": 9557,
+    "name": "Ottignies"
+  },
+  {
+    "2021": 9530,
+    "name": "Pepinster"
+  },
+  {
+    "2021": 9504,
+    "name": "Hemiksem"
+  },
+  {
+    "2021": 9483,
+    "name": "Jurbise"
+  },
+  {
+    "2021": 9452,
+    "name": "Opglabbeek"
+  },
+  {
+    "2021": 9396,
+    "name": "Erquelinnes"
+  },
+  {
+    "2021": 9353,
+    "name": "Court-Saint-Etienne"
+  },
+  {
+    "2021": 9346,
+    "name": "Meerhout"
+  },
+  {
+    "2021": 9340,
+    "name": "Estaimpuis"
+  },
+  {
+    "2021": 9272,
+    "name": "Lovendegem"
+  },
+  {
+    "2021": 9265,
+    "name": "Hoeselt"
+  },
+  {
+    "2021": 9215,
+    "name": "Bertem"
+  },
+  {
+    "2021": 9198,
+    "name": "Hulshout"
+  },
+  {
+    "2021": 9178,
+    "name": "Begijnendijk"
+  },
+  {
+    "2021": 9161,
+    "name": "Ardooie"
+  },
+  {
+    "2021": 9146,
+    "name": "Sint-Lievens-Houtem"
+  },
+  {
+    "2021": 9137,
+    "name": "Huldenberg"
+  },
+  {
+    "2021": 9135,
+    "name": "Saint-Vith"
+  },
+  {
+    "2021": 9106,
+    "name": "Avelgem"
+  },
+  {
+    "2021": 9102,
+    "name": "Ledegem"
+  },
+  {
+    "2021": 9094,
+    "name": "Holsbeek"
+  },
+  {
+    "2021": 9062,
+    "name": "Fosses-la-Ville"
+  },
+  {
+    "2021": 9006,
+    "name": "Welkenraedt"
+  },
+  {
+    "2021": 8994,
+    "name": "Bierbeek"
+  },
+  {
+    "2021": 8957,
+    "name": "Gooik"
+  },
+  {
+    "2021": 8951,
+    "name": "Houthulst"
+  },
+  {
+    "2021": 8932,
+    "name": "Wijnegem"
+  },
+  {
+    "2021": 8859,
+    "name": "Kapelle-op-den-Bos"
+  },
+  {
+    "2021": 8828,
+    "name": "Wielsbeke"
+  },
+  {
+    "2021": 8818,
+    "name": "Sint-Martens-Lennik"
+  },
+  {
+    "2021": 8752,
+    "name": "Oudenburg"
+  },
+  {
+    "2021": 8707,
+    "name": "Dessel"
+  },
+  {
+    "2021": 8656,
+    "name": "Niel"
+  },
+  {
+    "2021": 8612,
+    "name": "Awans"
+  },
+  {
+    "2021": 8548,
+    "name": "Halen"
+  },
+  {
+    "2021": 8534,
+    "name": "Oostduinkerke"
+  },
+  {
+    "2021": 8454,
+    "name": "Ledeberg"
+  },
+  {
+    "2021": 8378,
+    "name": "Herenthout"
+  },
+  {
+    "2021": 8354,
+    "name": "Juprelle"
+  },
+  {
+    "2021": 8317,
+    "name": "Koekelare"
+  },
+  {
+    "2021": 8303,
+    "name": "Sint-Martens-Latem"
+  },
+  {
+    "2021": 8242,
+    "name": "Beauraing"
+  },
+  {
+    "2021": 8194,
+    "name": "La Bruyere"
+  },
+  {
+    "2021": 8179,
+    "name": "Kruishoutem"
+  },
+  {
+    "2021": 8169,
+    "name": "Lichtervelde"
+  },
+  {
+    "2021": 8169,
+    "name": "Yvoir"
+  },
+  {
+    "2021": 8158,
+    "name": "Zomergem"
+  },
+  {
+    "2021": 8151,
+    "name": "Bassenge"
+  },
+  {
+    "2021": 8063,
+    "name": "Bertrix"
+  },
+  {
+    "2021": 8051,
+    "name": "Philippeville"
+  },
+  {
+    "2021": 8042,
+    "name": "Kortessem"
+  },
+  {
+    "2021": 8038,
+    "name": "Dentergem"
+  },
+  {
+    "2021": 7982,
+    "name": "Lint"
+  },
+  {
+    "2021": 7968,
+    "name": "Hove"
+  },
+  {
+    "2021": 7968,
+    "name": "Roeulx"
+  },
+  {
+    "2021": 7963,
+    "name": "Merksplas"
+  },
+  {
+    "2021": 7939,
+    "name": "Galmaarden"
+  },
+  {
+    "2021": 7930,
+    "name": "Gingelom"
+  },
+  {
+    "2021": 7897,
+    "name": "Zoutleeuw"
+  },
+  {
+    "2021": 7889,
+    "name": "Knesselare"
+  },
+  {
+    "2021": 7887,
+    "name": "Silly"
+  },
+  {
+    "2021": 7762,
+    "name": "Waarschoot"
+  },
+  {
+    "2021": 7704,
+    "name": "Habay-la-Vieille"
+  },
+  {
+    "2021": 7702,
+    "name": "Boutersem"
+  },
+  {
+    "2021": 7689,
+    "name": "Quevy-le-Petit"
+  },
+  {
+    "2021": 7688,
+    "name": "Jalhay"
+  },
+  {
+    "2021": 7675,
+    "name": "Schelle"
+  },
+  {
+    "2021": 7653,
+    "name": "Sint-Amands"
+  },
+  {
+    "2021": 7592,
+    "name": "Brunehault"
+  },
+  {
+    "2021": 7573,
+    "name": "Estinnes-au-Val"
+  },
+  {
+    "2021": 7559,
+    "name": "Trooz"
+  },
+  {
+    "2021": 7507,
+    "name": "Antoing"
+  },
+  {
+    "2021": 7489,
+    "name": "Oostrozebeke"
+  },
+  {
+    "2021": 7480,
+    "name": "Floreffe"
+  },
+  {
+    "2021": 7452,
+    "name": "Sombreffe"
+  },
+  {
+    "2021": 7415,
+    "name": "La Hulpe"
+  },
+  {
+    "2021": 7374,
+    "name": "Kortenaken"
+  },
+  {
+    "2021": 7340,
+    "name": "Perwez"
+  },
+  {
+    "2021": 7291,
+    "name": "Vielsalm"
+  },
+  {
+    "2021": 7250,
+    "name": "As"
+  },
+  {
+    "2021": 7238,
+    "name": "Vorselaar"
+  },
+  {
+    "2021": 7144,
+    "name": "Messancy"
+  },
+  {
+    "2021": 7125,
+    "name": "Anhee"
+  },
+  {
+    "2021": 7034,
+    "name": "Oostmalle"
+  },
+  {
+    "2021": 6962,
+    "name": "Zutendaal"
+  },
+  {
+    "2021": 6911,
+    "name": "Wachtebeke"
+  },
+  {
+    "2021": 6804,
+    "name": "Wellen"
+  }
+]
