@@ -7,23 +7,26 @@ let citiesList = fetch("be.json")
     .then(response => response.json())
     .then(cities => {
         for (let city of cities) {
-            labels.push(city.city)
+            labels.push(city.city);
+            console.log(labels.length)
+
         }
     })
-let poplist = fetch("be.json")
+    let poplist = fetch("be.json")
     .then(response => response.json())
     .then(populations => {
         for (let population of populations) {
             labelsPop.push(population.population);
         }
     })
-console.log(labelsPop)
-console.log(labels)
-console.log(test)
-//Global Options
+    console.log(labelsPop)
+    console.log(labels.length)
+    console.log(test)
+    
+
 
 let belgPopChart = new Chart(myChart, {
-    type: 'bar', //bar, horizontalBar, pie, line, doughnut, radar, polarArea
+    type: 'bar',
     data: {
         labels: test,
         datasets: [{
