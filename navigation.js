@@ -41,5 +41,50 @@ svg.addEventListener('click', function(){
   } else {
     r1.style.fill = 'black',r2.style.fill = 'black',r3.style.fill = 'black', popnavbar.style.display = "none"
   }
-
+  
 })
+
+let myChart = document.getElementById('myChart').getContext('2d');
+let belgPopChart = new Chart(myChart, {
+  type: 'bar',
+  data: {
+      labels: [
+        'HTML',
+        'CSS',
+        'JavaScript',
+        'PHP',
+        'React',
+        'Node',
+        'Ruby'
+      ],
+      datasets: [{
+        label: 'Compétences Front-end',
+        data: [91, 80, 60, 0, 20, 0, 20],
+        fill: true,
+        backgroundColor: 'rgba(255, 99, 132, 0.2)',
+        borderColor: 'rgb(255, 99, 132)',
+        pointBackgroundColor: 'rgb(255, 99, 132)',
+        pointBorderColor: '#fff',
+        pointHoverBackgroundColor: '#fff',
+        pointHoverBorderColor: 'rgb(255, 99, 132)'
+      }, {
+        label: 'Compétences Back-end',
+        data: [0, 0, 30, 10, 0, 10, ],
+        fill: true,
+        backgroundColor: 'rgba(54, 162, 235, 0.2)',
+        borderColor: 'rgb(54, 162, 235)',
+        pointBackgroundColor: 'rgb(54, 162, 235)',
+        pointBorderColor: '#fff',
+        pointHoverBackgroundColor: '#fff',
+        pointHoverBorderColor: 'rgb(54, 162, 235)'
+      }],
+  },
+  options: {
+    elements: {
+      line: {
+        borderWidth: 3
+      }
+    }
+  },
+});
+
