@@ -26,7 +26,7 @@ let citiesList = fetch("be.json")
 
 
 let belgPopChart = new Chart(myChart, {
-    type: 'bar',
+    type: 'radar',
     data: {
         labels: test,
         datasets: [{
